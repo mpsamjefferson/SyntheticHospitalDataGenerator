@@ -1,0 +1,101 @@
+Patient_ID,Age,Gender,Department,Diagnosis,Admission_Date,Length_of_Stay,Billing_Amount
+P001,15,Male,Orthopedics,Migraine,2025-11-28,4,7407.13
+P002,87,Male,General Medicine,Common Cold,2026-08-30,1,1974.96
+P003,30,Male,General Medicine,Migraine,2026-07-02,12,32669.28
+P004,54,Male,Pediatrics,Diabetes,2026-01-15,5,40566.81
+P005,21,Female,Orthopedics,Fracture,2026-10-18,3,11158.03
+P006,14,Male,Pediatrics,Hypertension,2026-05-02,6,42450.97
+P007,34,Male,Pediatrics,Diabetes,2025-12-16,2,48669.23
+P008,11,Female,General Medicine,Fracture,2026-04-11,10,10018.29
+P009,6,Male,Orthopedics,Hypertension,2026-09-16,14,12023.15
+P010,49,Female,Pediatrics,Fracture,2026-08-31,3,18823.96
+P011,86,Female,Cardiology,Diabetes,2026-07-06,11,8971.36
+P012,21,Female,Pediatrics,Fracture,2026-06-18,15,32179.99
+P013,29,Female,Cardiology,Migraine,2026-01-09,14,2088.96
+P014,52,Female,Cardiology,Migraine,2026-05-13,15,47174.03
+P015,28,Female,Pediatrics,Common Cold,2026-05-13,3,13611.57
+P016,72,Female,General Medicine,Common Cold,2026-06-17,15,29384.88
+P017,29,Male,General Medicine,Common Cold,2026-04-19,2,37911.22
+P018,20,Male,Pediatrics,Diabetes,2026-08-26,2,19545.98
+P019,60,Female,General Medicine,Hypertension,2025-12-20,11,36175.73
+P020,69,Female,Orthopedics,Hypertension,2025-11-06,5,22020.88
+P021,1,Female,General Medicine,Migraine,2026-03-03,9,45675.08
+P022,39,Male,Neurology,Fracture,2025-12-05,13,8496.68
+P023,1,Female,Pediatrics,Hypertension,2026-01-23,2,46490.38
+P024,31,Male,Neurology,Diabetes,2026-05-17,2,4739.85
+P025,9,Male,Neurology,Common Cold,2026-02-15,9,8673.78
+P026,78,Female,Neurology,Diabetes,2026-01-24,13,36631.59
+P027,92,Female,Pediatrics,Fracture,2026-07-11,8,45030.9
+P028,16,Male,Neurology,Hypertension,2026-03-04,6,1541.2
+P029,30,Male,Cardiology,Hypertension,2026-01-11,12,31739.6
+P030,9,Male,Orthopedics,Hypertension,2026-06-26,9,12281.23
+P031,63,Male,General Medicine,Migraine,2025-11-13,12,46807.95
+P032,74,Female,Neurology,Common Cold,2026-01-02,13,20649.47
+P033,13,Female,Orthopedics,Common Cold,2026-09-03,7,23617.72
+P034,87,Male,Cardiology,Common Cold,2026-09-24,12,17295.48
+P035,32,Male,Neurology,Diabetes,2026-08-27,8,7439.02
+P036,36,Female,Neurology,Hypertension,2026-07-20,8,40497.1
+P037,13,Male,General Medicine,Hypertension,2026-01-13,2,46355.17
+P038,22,Female,Pediatrics,Common Cold,2026-06-22,4,43300.19
+P039,22,Female,Cardiology,Common Cold,2026-09-21,5,46362.64
+P040,37,Female,General Medicine,Common Cold,2026-03-03,3,9899.94
+P041,8,Male,Orthopedics,Hypertension,2026-07-02,1,29416.79
+P042,68,Male,Cardiology,Diabetes,2026-02-06,2,42641.46
+P043,77,Male,Neurology,Common Cold,2026-09-16,2,47109.01
+P044,32,Male,General Medicine,Hypertension,2026-01-03,7,33039.97
+P045,67,Female,Orthopedics,Migraine,2026-01-05,11,35951.49
+P046,34,Female,Neurology,Fracture,2026-06-21,8,16150.77
+P047,2,Female,General Medicine,Diabetes,2026-09-14,2,4126.41
+P048,65,Female,Neurology,Fracture,2026-07-04,15,3905.17
+P049,48,Female,Neurology,Common Cold,2026-06-18,14,27389.29
+P050,79,Male,General Medicine,Fracture,2026-05-20,15,33337.74
+P051,34,Male,Cardiology,Diabetes,2026-08-14,3,13981.24
+P052,27,Female,Neurology,Fracture,2025-12-16,9,24682.33
+P053,12,Female,Orthopedics,Hypertension,2026-09-25,1,17011.05
+P054,82,Female,Neurology,Common Cold,2026-08-16,9,35430.54
+P055,2,Male,Cardiology,Migraine,2026-01-07,9,2283.39
+P056,75,Male,Pediatrics,Migraine,2026-04-15,1,15758.79
+P057,46,Male,Neurology,Hypertension,2026-10-01,6,39115.75
+P058,80,Male,Neurology,Migraine,2026-03-27,13,40633.2
+P059,4,Male,Orthopedics,Common Cold,2026-03-24,13,33660.4
+P060,35,Male,Cardiology,Common Cold,2026-06-16,14,2416.87
+P061,29,Male,Pediatrics,Fracture,2026-02-23,5,41116.55
+P062,29,Male,Neurology,Common Cold,2026-06-27,6,14290.85
+P063,36,Female,General Medicine,Common Cold,2026-09-16,11,49066.91
+P064,43,Male,Cardiology,Fracture,2026-01-20,3,29239.19
+P065,5,Male,General Medicine,Common Cold,2026-06-08,6,36562.98
+P066,56,Male,Pediatrics,Diabetes,2026-05-14,4,13108.76
+P067,56,Male,General Medicine,Diabetes,2025-10-24,11,36111.78
+P068,26,Female,Pediatrics,Hypertension,2025-11-12,11,46078.16
+P069,41,Male,Orthopedics,Diabetes,2025-12-06,5,33511.2
+P070,52,Female,General Medicine,Migraine,2026-05-07,4,21312.09
+P071,87,Male,General Medicine,Diabetes,2026-04-10,5,20600.72
+P072,39,Female,Neurology,Common Cold,2026-10-21,13,29209.25
+P073,42,Female,Pediatrics,Common Cold,2025-11-20,11,11078.22
+P074,95,Male,Cardiology,Fracture,2026-02-21,9,33360.76
+P075,43,Male,Neurology,Fracture,2025-12-08,4,40424.86
+P076,4,Male,Neurology,Common Cold,2026-08-07,10,42562.02
+P077,59,Female,General Medicine,Migraine,2026-09-14,12,34969.54
+P078,52,Male,Neurology,Hypertension,2026-02-10,15,37672.74
+P079,55,Male,Neurology,Diabetes,2026-08-28,8,2985.81
+P080,16,Female,Neurology,Common Cold,2026-06-16,11,26791.03
+P081,77,Female,Pediatrics,Diabetes,2026-01-08,14,36104.06
+P082,55,Female,Neurology,Common Cold,2026-02-05,8,13329.98
+P083,82,Female,General Medicine,Common Cold,2026-06-17,11,12342.67
+P084,10,Female,Neurology,Fracture,2026-03-10,6,16325.62
+P085,11,Male,Neurology,Migraine,2026-01-18,7,34850.52
+P086,28,Male,Pediatrics,Common Cold,2025-10-25,6,27359.25
+P087,8,Male,Pediatrics,Common Cold,2026-03-23,15,38604.89
+P088,3,Female,Pediatrics,Hypertension,2025-10-30,6,15281.33
+P089,54,Male,Pediatrics,Migraine,2026-04-05,5,22073.88
+P090,50,Female,Pediatrics,Migraine,2026-10-07,14,23635.81
+P091,80,Male,Pediatrics,Diabetes,2026-08-17,10,33318.49
+P092,83,Female,Neurology,Common Cold,2026-09-09,3,2989.09
+P093,42,Male,Pediatrics,Fracture,2026-04-10,6,38180.87
+P094,36,Female,Orthopedics,Hypertension,2026-04-10,8,1459.47
+P095,7,Female,Neurology,Hypertension,2026-01-18,13,47885.64
+P096,4,Male,Neurology,Hypertension,2026-10-01,10,8042.93
+P097,61,Male,General Medicine,Migraine,2026-08-18,8,35123.52
+P098,22,Male,Neurology,Fracture,2026-04-16,2,29144.89
+P099,74,Female,Pediatrics,Migraine,2026-05-15,2,29808.84
+P100,32,Male,Orthopedics,Diabetes,2025-12-04,13,6492.23
